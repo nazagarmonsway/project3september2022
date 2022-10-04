@@ -1,0 +1,20 @@
+body{   
+background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+}
+.text{
+    color: blueviolet;
+}
+.content{
+    color: aquamarine;
+}
+#content{
+    color: brown;
+    text-transform: uppercase;
+}
+/* this is an example comment in css */
+.warning{ 
+    background-color: beige;
+}
