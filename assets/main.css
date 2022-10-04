@@ -1,22 +1,18 @@
-body{   
-background-color: blanchedalmond;
-}
-h1{
-    text-align: center;
-    font-size: 40px;
+.important {
+    color: red;
     font-weight: bold;
 }
-.text{
-    color: blueviolet;
+.all-paragraph{
+    background-color: pink;
+    display: block;
 }
-.content{
-    color: aquamarine;
+.links{
+    background-color: red;
+    
 }
-#content{
-    color: brown;
-    text-transform: uppercase;
+a{
+    display: block;
 }
-/* this is an example comment in css */
-.warning{ 
-    background-color: beige;
+p{
+    display: inline;
 }
